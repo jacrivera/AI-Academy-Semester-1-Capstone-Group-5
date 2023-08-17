@@ -25,12 +25,18 @@ Followinig our exploratory data analysis of profit percentage (total profit/prod
 Because we are taking samples of the population (the 5 genres) and comparing it to the total population in our dataset (overall movies), we decided on running one tail t-tests to determine if these result were significant.
 
 ## Results:
-Population Profit Average: 	397.5%
-Horror Profit% Average: 	1233.1%  T-stat: 3.54 (p<0.001)	Confidence Interval: -100% - 7744.7% 
-Mystery Profit% Average:	1047.7%  T-stat: 2.01 (p<0.05)	Confidence Interval: -100% - 8414.8%
-Sport Profit% Average:		1093.1%  T-stat: 2.25 (p<0.05)	Confidence Interval: -100% - 5243.5% 
-Thriller Profit% Average:	733.7%   T-stat: 2.27 (p<0.05)	Confidence Interval: -100% - 5855.7% 
-Romance Profit% Average: 	566.8%   T-stat: 2.44 (p<0.05)	Confidence Interval: -100% - 2525.8%
+
+Population Profit Average: 397.5%
+Horror Profit% Average:   1233.1%   T-stat: 3.54 (p<0.001)     Confidence Interval: -100% - 7744.7% 
+
+Mystery Profit% Average:  1047.7%   T-stat: 2.01 (p<0.05)      Confidence Interval: -100% - 8414.8%
+
+Sport Profit% Average:    1093.1%   T-stat: 2.25 (p<0.05)      Confidence Interval: -100% - 5243.5% 
+
+Thriller Profit% Average:  733.7%   T-stat: 2.27 (p<0.05)      Confidence Interval: -100% - 5855.7% 
+
+Romance Profit% Average:   566.8%   T-stat: 2.44 (p<0.05)      Confidence Interval: -100% - 2525.8%
+
 
 
 ## Interpretation:
