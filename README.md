@@ -11,7 +11,7 @@ The stakeholder is starting a new movie studio and has limited to no experience 
 1. What is their starting budget? (Do they have money to pay for top actors and directors?) 
 2. What are top performing genres? 
 3. What is the profitability of producing films with high budgets? 
-4. What movie runtime has highest ratings/profitability
+4. What movie runtime has highest ratings/profitability?
 5. What is the clients definition of success? Is it high ratings/high profits or both?
 
 ## Data Understanding
