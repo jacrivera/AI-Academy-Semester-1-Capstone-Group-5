@@ -45,7 +45,7 @@ The master dataframe we created is used to represent the overall population. The
 - total_profit: difference between worldwide_gross and production budget (in $)
 
 ### Three Visualizations
-This chart shows how the duration of a film relates with its total profit. In this case, the 2.5-3.5 hour range appears to be best in terms of overall revenue.
+This chart shows how the duration of a film relates to its average rating. In this case, the 2.5-3.5 hour range appears to be best in terms of average rating.
 
 ![visualization0](images/vis0.png)
 
@@ -92,5 +92,5 @@ The genres of the movies were correlated with profits and the ratings from both 
 
 Finally, the budgets and profits of films were analyzed in connection with ratings and profits. While there was some minor positive correlation between budget and ratings, many lower budget films performed just as well in terms of both ratings and profit margins. Additionally, film runtime was found to be proportional to budget, with longer movies costing more to make. In connection with the duration analysis, the best choice would be to produce a lower budget film (which would inherently have a shorter runtime) for greater profits. Otherwise, if high ratings take precedence, a longer high budget film would be a better choice.
 
-### Provided the previous data analysis, the best option moving forward would be to produce a longer form film with a small budget.
+### Provided the previous data analysis, the best option moving forward depends on whether ratings or profits are prioritized.
 If the end goal is profit, a low-budget, short, scary/action-packed film would maximize potential profits. Otherwise, if building the studio's reputation is more of a priority, a high-budget, longer, nonfiction movie would increase the probability of higher ratings.
