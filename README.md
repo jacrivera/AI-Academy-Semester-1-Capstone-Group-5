@@ -46,17 +46,15 @@ The master dataframe we created is used to represent the overall population. The
 ### Three Visualizations
 This chart shows how the duration of a film relates with its total profit. In this case, the 2.5-3.5 hour range appears to be best in terms of overall revenue.
 
-![title](Images/example.png)
-
-<vis0.png>
+![visualization0](images/vis0.png)
 
 Below the average overall rating for each movie genre on both IMDb and TMDb is displayed. Generally, most genres are rated around the same with the exception of nonfiction films.
 
-<vis1.png>
+![visualization1](images/vis1.png)
 
 This scatterplot shows the relation between profit percentages and production budgets. Films with smaller budgets typically appear to have higher profit percentages in comparison to higher budget films.
 
-<vis2.png>
+![visualization2](images/vis2.png)
 
 ## Statistical Communication:
 Followinig our exploratory data analysis of profit percentage (total profit/production budget * 100) we found that the means of 5 genres seemingly were higher than the population mean, so we decided to run statistical testing to see if this change is significant. 
