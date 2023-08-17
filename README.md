@@ -57,7 +57,7 @@ This scatterplot shows the relation between profit percentages and production bu
 ![visualization2](images/vis2.png)
 
 ## Statistical Communication:
-Followinig our exploratory data analysis of profit percentage (total profit/production budget * 100) we found that the means of 5 genres seemingly were higher than the population mean, so we decided to run statistical testing to see if this change is significant. 
+Following our exploratory data analysis of profit percentage (total profit/production budget * 100) we found that the means of 5 genres seemingly were higher than the population mean, so we decided to run statistical testing to see if this change is significant. 
 Because we are taking samples of the population (the 5 genres) and comparing it to the total population in our dataset (overall movies), we decided on running one tail t-tests to determine if these result were significant.
 
 ### Results:
