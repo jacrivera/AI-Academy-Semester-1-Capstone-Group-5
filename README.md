@@ -12,6 +12,7 @@ The stakeholder is starting a new movie studio and has limited to no experience 
 2. What are top performing genres? 
 3. What is the profitability of producing films with high budgets? 
 4. What movie runtime has highest ratings/profitability
+5. What is the clients definition of success? Is it high ratings/high profits or both
 
 ## Data Understanding
 The data used in this analysis is box office movies, IMDb, and TMDb. These were analysied to determine the highest rated and most profitable moveies based on runtime, genre, and budget. 
