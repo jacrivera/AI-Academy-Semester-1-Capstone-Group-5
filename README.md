@@ -27,6 +27,7 @@ Because we are taking samples of the population (the 5 genres) and comparing it 
 ## Results:
 
 Population Profit Average: 397.5%
+
 Horror Profit% Average:   1233.1%   T-stat: 3.54 (p<0.001)     Confidence Interval: -100% - 7744.7% 
 
 Mystery Profit% Average:  1047.7%   T-stat: 2.01 (p<0.05)      Confidence Interval: -100% - 8414.8%
