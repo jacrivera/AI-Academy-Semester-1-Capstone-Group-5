@@ -94,3 +94,11 @@ Finally, the budgets and profits of films were analyzed in connection with ratin
 
 ### Provided the previous data analysis, the best option moving forward depends on whether ratings or profits are prioritized.
 If the end goal is profit, a low-budget, short, scary/action-packed film would maximize potential profits. Otherwise, if building the studio's reputation is more of a priority, a high-budget, longer, nonfiction movie would increase the probability of higher ratings.
+
+# Links to notebook and presentation:
+## Presentation: 
+
+https://github.com/jacrivera/AI-Academy-Semester-1-Capstone-Group-5/blob/main/presentation.pdf
+
+## Jupyter Notebook:
+https://github.com/jacrivera/AI-Academy-Semester-1-Capstone-Group-5/blob/main/Final-Workbook.ipynb
