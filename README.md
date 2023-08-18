@@ -98,7 +98,7 @@ If the end goal is profit, a low-budget, short, scary/action-packed film would m
 # Links to notebook and presentation:
 ## Presentation: 
 
-https://github.com/jacrivera/AI-Academy-Semester-1-Capstone-Group-5/blob/main/Final-Workbook.ipynb
+https://github.com/jacrivera/AI-Academy-Semester-1-Capstone-Group-5/blob/main/presentation.pdf
 
 ## Jupyter Notebook:
 https://github.com/jacrivera/AI-Academy-Semester-1-Capstone-Group-5/blob/main/Final-Workbook.ipynb
